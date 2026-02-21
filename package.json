@@ -1,6 +1,6 @@
 {
   "name": "@codelockr/runtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CodeLockr runtime for decrypting and executing CLR-protected JavaScript files.",
   "main": "index.js",
   "license": "MIT",
