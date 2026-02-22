@@ -1,8 +1,20 @@
 {
   "name": "@codelockr/runtime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CodeLockr runtime for decrypting and executing CLR-protected JavaScript files.",
   "main": "index.js",
+  "type": "module",
+  "author": "CodeForgeX Studio",
   "license": "MIT",
-  "author": "CodeForgeX Studio"
+  "homepage": "https://codeforgex.studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeForgeX-Studio/codelockr-npm"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeForgeX-Studio/codelockr-npm"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
